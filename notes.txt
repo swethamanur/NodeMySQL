@@ -1,0 +1,5 @@
+#
+MySql is a RDBMS. It is one of the most popular SQL database.
+Currently using phpMyAdmin as the DB administrator installed from XAAMP.
+Serves as a web server and also a nice GUI format to view the SQL database.
+
